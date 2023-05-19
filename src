@@ -1,0 +1,5 @@
+--Queremos cambiar  el campo2 por 'xyzwv' lo podemos hacer con:      
+
+UPDATE tabla1                      
+SET campo2 = 'xyzwv'                      
+WHERE campo1 = 1234567;
